@@ -1,0 +1,6 @@
+{
+    "quokka.showStartViewOnFeatureRelease": false,
+    "quokka.showOutputOnStart": false,
+    "quokka.startViewStatusBar": true,
+    "quokka.suppressGlyphMarginNotifications": true
+}
